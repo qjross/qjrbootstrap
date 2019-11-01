@@ -1,0 +1,45 @@
+* {
+background-color: silver;
+}
+
+img {
+float: right;
+width: 600px;
+height: 300px;
+}
+    #fadeOne{
+        width:35%;
+            height:35%;
+            
+    }
+    
+   
+
+    body{
+        background-color:cornsilk;
+        width:85%
+    }
+    h2{
+        background-color:gold;
+        font-size:2vw;
+        width:50%;
+    } 
+    
+    h3{
+        background-color:gold;
+        font-size:2vw;
+        width: 40%;
+    }
+p{
+    background-color:cornsilk;
+color: navy;
+}
+    
+    div{
+        color: navy;
+        background-color:cornsilk;
+    }
+    .charlotteQuidditch{
+        width: 25%;
+        height: 50%;
+     }  
